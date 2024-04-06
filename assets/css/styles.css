@@ -122,6 +122,7 @@ body {
 \*------------------------------------------*/
 
 .article-preview {
+  box-shadow: 0 15px 30px -20px var(--Very-Dark-Grayish-Blue);
   background-color: white;
   border-radius: 10px;
   width: 90%;
